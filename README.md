@@ -2,7 +2,8 @@
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/arthurpatriot/laravel-iscraper-linkedin.svg?style=flat-square)](https://packagist.org/packages/arthurpatriot/laravel-iscraper-linkedin)
 [![Total Downloads](https://img.shields.io/packagist/dt/arthurpatriot/laravel-iscraper-linkedin.svg?style=flat-square)](https://packagist.org/packages/arthurpatriot/laravel-iscraper-linkedin)
-![GitHub Actions](https://github.com/arthurpatriot/laravel-iscraper-linkedin/actions/workflows/main.yml/badge.svg)
+
+[comment]: <> (![GitHub Actions]&#40;https://github.com/arthurpatriot/laravel-iscraper-linkedin/actions/workflows/testing.yml/badge.svg&#41;)
 
 The most-stable, affordable, and powerful API that gets you unrestricted access to the entire LinkedIn public data.
 

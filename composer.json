@@ -3,7 +3,9 @@
     "description": "iScraper.io client laravel SDK for LinkedIn. The most-stable, affordable, and powerful API that gets you unrestricted access to the entire LinkedIn public data.",
     "keywords": [
         "arthurpatriot",
-        "laravel-iscraper-linkedin"
+        "laravel-iscraper-linkedin",
+        "iscraper",
+        "linkedin"
     ],
     "homepage": "https://github.com/arthurpatriot/laravel-iscraper-linkedin",
     "license": "MIT",

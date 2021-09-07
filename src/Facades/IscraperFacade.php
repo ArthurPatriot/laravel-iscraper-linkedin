@@ -1,6 +1,6 @@
 <?php
 
-namespace Iscraper;
+namespace Iscraper\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
@@ -16,6 +16,6 @@ class IscraperFacade extends Facade
      */
     protected static function getFacadeAccessor()
     {
-        return 'laravel-iscraper-linkedin';
+        return 'iscraper';
     }
 }

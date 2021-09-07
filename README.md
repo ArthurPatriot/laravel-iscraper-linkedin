@@ -27,11 +27,25 @@ You can install the package via composer:
 composer require arthurpatriot/laravel-iscraper-linkedin
 ```
 
-## Usage
+## Usage with Dependency Injection
 
 ```php
-// Usage description here
+public function some(LinkedInSearchService $iscraper) {
+    $iscraper->getAccountDetails();
+}
 ```
+
+## Usage with Facade
+
+```php
+Icraper::getAccountDetails();
+Icraper::searchCompanies('amazon');
+Icraper::searchPeople('artur-khylskyi');
+```
+
+## Wiki
+
+> #### View full documentation on [iScraper.io](https://iscraper.io/docs)
 
 ### Testing
 

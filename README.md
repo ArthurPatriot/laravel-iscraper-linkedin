@@ -61,10 +61,6 @@ Please see [CHANGELOG](CHANGELOG.md) for more information what has changed recen
 
 Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
-### Security
-
-If you discover any security related issues, please email arthur.patriot@gmail.com instead of using the issue tracker.
-
 ## Credits
 
 - [Artur Khylskyi](https://github.com/arthurpatriot)
